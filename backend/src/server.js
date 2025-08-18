@@ -21,6 +21,7 @@ app.get("/api/auth/logout", (req, res) => {
     res.send("Logout Route");
 }); */
 
+app.use(express.json());
 app.use("/api/auth", authRoutes);
 
 app.listen(PORT, () => {
