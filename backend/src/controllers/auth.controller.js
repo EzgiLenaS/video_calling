@@ -26,7 +26,7 @@ export async function signup(req, res) {
         const idx = Math.floor(Math.random() * 100) + 1; // Generate a number between [1 - 100]
         const randomAvatar = `https://avatar.iran.liara.run/public/${idx}.png`;
 
-        const newUser = new User.create({
+        const newUser = await User.create({
             email,
             fullName,
             password,
@@ -37,8 +37,17 @@ export async function signup(req, res) {
             expiresIn: "7d",
         });
 
+        res.cookie("jwt", token, {
+            maxAge: 7 * 24 * 60 * 60 * 1000,
+            httpOnly: true, // Prevent XSS attacks
+            sameSite: "strict", // Prevent CSRF attacks
+            secure: process.env.NODE_ENV === "production", // Prevent HTTP requests
+        });
+
+        res.status(201).json({ success: true, user: newUser })
     } catch (error) {
-        
+        console.log("Error in signup controller", error);
+        res.status(500).json({ message: "Internal Server Error" });
     }
 };
 

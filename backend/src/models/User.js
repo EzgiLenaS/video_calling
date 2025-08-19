@@ -33,11 +33,10 @@ const userSchema = new mongoose.Schema({
 }, { timestamps:true } // CreatedAt, updatedAt
 );
 
-const User = mongoose.model("User", userSchema);
-
 // Pre hook for passwords
 userSchema.pre("save", async function(next) {
 
+    // If user trying to update something but password dont touch the hash
     if (!this.isModified("password")) return next();
     
     try {
@@ -49,5 +48,7 @@ userSchema.pre("save", async function(next) {
         next(error);
     }
 });
+
+const User = mongoose.model("User", userSchema);
 
 export default User;
