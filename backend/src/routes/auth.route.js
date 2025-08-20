@@ -5,7 +5,7 @@ import { protectRoute } from "../middleware/auth.middleware.js";
 const authRoutes = express.Router();
 
 authRoutes.post("/signup", signup);
-authRoutes.post("/login",login);
+authRoutes.post("/login", login);
 authRoutes.post("/logout", logout);
 
 // Check if user is logged in
