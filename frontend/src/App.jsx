@@ -8,7 +8,23 @@ import CallPage from "./pages/CallPage.jsx";
 import ChatPage from "./pages/ChatPage.jsx";
 import toast, { Toaster } from 'react-hot-toast';
 
+import { useQuery } from "@tanstack/react-query";
+import { axiosInstance } from "./lib/axios.js";
+
 const App = () => {
+  // Axios
+  // React Query Tanstack query
+  const { data} = useQuery({
+    queryKey: ["authUser"],
+
+    queryFn: async () => {
+      const res = await axiosInstance.get("/auth/me");
+      return res.data;
+    },
+    retry: false, // Auth check
+  });
+
+  console.log(data);
   return (
     <div className='h-screen' data-theme="aqua">
       <Routes>
