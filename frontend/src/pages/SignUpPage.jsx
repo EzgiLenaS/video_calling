@@ -65,6 +65,7 @@ const SignUpPage = () => {
                       className="input input-bordered w-full"
                       value={ signupData.fullName }
                       onChange={ (e) => setSignupData({ ...signupData, fullName: e.target.value })}
+                      required
                     />
                   </div>
 
@@ -79,6 +80,7 @@ const SignUpPage = () => {
                       className="input input-bordered w-full"
                       value={ signupData.email }
                       onChange={ (e) => setSignupData({ ...signupData, email: e.target.value })}
+                      required
                     />
                   </div>
 
@@ -93,6 +95,7 @@ const SignUpPage = () => {
                       className="input input-bordered w-full"
                       value={ signupData.password }
                       onChange={ (e) => setSignupData({ ...signupData, password: e.target.value })}
+                      required
                     />
                     <p className="text-xs opacity-70 mt-1">
                       Password must be at least 6 characters long
@@ -156,7 +159,7 @@ const SignUpPage = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default SignUpPage
