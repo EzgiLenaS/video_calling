@@ -1,47 +1,33 @@
 import React from 'react'
-import { Route, Routes } from 'react-router'
+import { Navigate, Route, Routes } from 'react-router'
 import HomePage from "./pages/HomePage.jsx";
 import SignUpPage from "./pages/SignUpPage.jsx";
 import LoginPage from "./pages/LoginPage.jsx";
 import NotificationsPage from "./pages/NotificationsPage.jsx";
 import CallPage from "./pages/CallPage.jsx";
 import ChatPage from "./pages/ChatPage.jsx";
-import toast, { Toaster } from 'react-hot-toast';
-
-import { useQuery } from "@tanstack/react-query";
-import { axiosInstance } from "./lib/axios.js";
+import PageLoader from './components/PageLoader.jsx';
+import useAuthUser from './hooks/useAuthUser.js';
 
 const App = () => {
-  // Axios
-  // React Query Tanstack query
-  const { data} = useQuery({
-    queryKey: ["authUser"],
+  const { isLoading, authUser } = useAuthUser();
 
-    queryFn: async () => {
-      const res = await axiosInstance.get("/auth/me");
-      return res.data;
-    },
-    retry: false, // Auth check
-  });
+  const isAuthenticated = Boolean(authUser);
 
-  console.log(data);
+  // Where does the authData come from???
+  // const authUser = authData?.userWhichUsedInAppAndAuthRoute;
+  if (isLoading) return <PageLoader />;
+
   return (
     <div className='h-screen' data-theme="aqua">
       <Routes>
-        <Route path="/" element={ <HomePage /> } />
-        <Route path="/signup" element={ <SignUpPage /> } />
-        <Route path="/login" element={ <LoginPage /> } />
-        <Route path="/notifications" element={ <NotificationsPage /> } />
-        <Route path="/call" element={ <CallPage /> } />
-        <Route path="/chat" element={ <ChatPage /> } />
+        <Route path="/" element={ isAuthenticated ? <HomePage /> : <Navigate to="/login" /> } />
+        <Route path="/signup" element={ !isAuthenticated ? <SignUpPage /> : <Navigate to="/" /> } />
+        <Route path="/login" element={ !isAuthenticated ? <LoginPage /> : <Navigate to="/" /> } />
+        <Route path="/notifications" element={ authUser ? <NotificationsPage /> : <Navigate to="/login" /> } />
+        <Route path="/call" element={ isAuthenticated ? <CallPage /> : <Navigate to="/login" /> } />
+        <Route path="/chat" element={ isAuthenticated ? <ChatPage /> : <Navigate to="/login" /> } />
       </Routes>
-      <button className="btn" onClick={() => toast.success("HelloWorld!")}>Create a Toast</button>
-      <button className="btn btn-neutral">Neutral</button>
-      <button className="btn btn-primary">Primary</button>
-      <button className="btn btn-secondary">Secondary</button>
-      <button className="btn btn-accent">Accent</button>
-      <button className="btn btn-ghost">Ghost</button>
-      <button className="btn btn-link">Link</button>
 
       <Toaster />
     </div>
