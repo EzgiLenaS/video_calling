@@ -58,4 +58,7 @@ npm run dev
 
 ### Feature
 - [#0004] Stylish dark and light UI themes included.
+
+### Tip
+- [#0005] Share only a single window for better privacy.
 <!-- AUTO-UPDATED:END -->
