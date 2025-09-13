@@ -61,4 +61,7 @@ npm run dev
 
 ### Tip
 - [#0005] Share only a single window for better privacy.
+
+### Status
+- [#0006] Average call setup time < 500ms in last tests.
 <!-- AUTO-UPDATED:END -->
