@@ -66,4 +66,7 @@ npm run dev
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
+
+### Status
+- [#0009] TURN servers active for strict NAT environments.
 <!-- AUTO-UPDATED:END -->
