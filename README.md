@@ -56,4 +56,6 @@ npm run dev
 <!-- AUTO-UPDATED:START -->
 ---
 
+### Feature
+- [#0004] Stylish dark and light UI themes included.
 <!-- AUTO-UPDATED:END -->
