@@ -55,7 +55,5 @@ npm run dev
 ```
 <!-- AUTO-UPDATED:START -->
 ---
-- [#0001] 2025-09-13 06:52:43 +03 · Feature: Stylish dark and light UI themes included.
-- [#0002] 2025-09-13 06:52:45 +03 · Tip: Share only a single window for better privacy.
-- [#0003] 2025-09-13 06:52:46 +03 · Status: Average call setup time < 500ms in last tests.
+
 <!-- AUTO-UPDATED:END -->
