@@ -33,4 +33,4 @@ jobs:
         run: |
           git config user.email "$GH_EMAIL"
           git config user.name "$GH_NAME"
-          python .github/scripts/update_readme.py
+          python .github/scripts/update_readme_template.py
