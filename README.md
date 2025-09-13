@@ -56,4 +56,5 @@ npm run dev
 <!-- AUTO-UPDATED:START -->
 ---
 - [#0001] 2025-09-13 06:52:43 +03 · Feature: Stylish dark and light UI themes included.
+- [#0002] 2025-09-13 06:52:45 +03 · Tip: Share only a single window for better privacy.
 <!-- AUTO-UPDATED:END -->
