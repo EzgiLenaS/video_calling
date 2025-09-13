@@ -58,6 +58,7 @@ npm run dev
 
 ### Feature
 - [#0004] Stylish dark and light UI themes included.
+- [#0007] Secure login with JWT-based authentication.
 
 ### Tip
 - [#0005] Share only a single window for better privacy.
