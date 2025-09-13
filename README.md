@@ -1,6 +1,3 @@
-<!-- AUTO-UPDATED:START -->
-<!-- AUTO-UPDATED:END -->
-
 # 📹 Video Calling App
 
 This project is a **real-time video calling and messaging application** where users can:  
@@ -31,27 +28,44 @@ This project is a **real-time video calling and messaging application** where us
 
 ### Backend (`/backend`)
 ``env
+
 PORT=5001
+
 MONGO_URI=your_mongo_uri
+
 STREAM_API_KEY=your_stream_api_key
+
 STREAM_API_SECRET=your_stream_api_secret
+
 JWT_SECRET_KEY=your_jwt_secret
+
 NODE_ENV=development
 
 ### Frontend (`/frontend`)
 ``env
+
 VITE_STREAM_API_KEY=your_stream_api_key
 
 ### Run Locally
 #### Run the Backend
 cd backend
+
 npm install
+
 npm run dev
 
 #### Run the Frontend
 cd frontend
+
 npm install
+
 npm run dev
 
 <!-- AUTO-UPDATED:START -->
+---
+
+## ⚙️ 2. Script (akıllı şablon)
+`.github/scripts/update_readme_template.py`
+
+``python
 <!-- AUTO-UPDATED:END -->
