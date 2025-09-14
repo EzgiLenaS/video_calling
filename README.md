@@ -71,4 +71,7 @@ npm run dev
 
 ### Status
 - [#0009] TURN servers active for strict NAT environments.
+
+### Status
+- [#0012] TURN servers active for strict NAT environments.
 <!-- AUTO-UPDATED:END -->
