@@ -64,6 +64,7 @@ npm run dev
 ### Tip
 - [#0005] Share only a single window for better privacy.
 - [#0008] Share only a single window for better privacy.
+- [#0011] Check your .env configuration before running locally.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
