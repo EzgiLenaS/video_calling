@@ -60,6 +60,7 @@ npm run dev
 - [#0004] Stylish dark and light UI themes included.
 - [#0007] Secure login with JWT-based authentication.
 - [#0010] Stylish dark and light UI themes included.
+- [#0013] Recording option saves sessions for later playback.
 
 ### Tip
 - [#0005] Share only a single window for better privacy.
