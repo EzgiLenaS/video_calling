@@ -66,6 +66,7 @@ npm run dev
 - [#0005] Share only a single window for better privacy.
 - [#0008] Share only a single window for better privacy.
 - [#0011] Check your .env configuration before running locally.
+- [#0014] Use Chrome for the best WebRTC stability.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
