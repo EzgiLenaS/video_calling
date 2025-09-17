@@ -62,6 +62,7 @@ npm run dev
 - [#0010] Stylish dark and light UI themes included.
 - [#0013] Recording option saves sessions for later playback.
 - [#0016] Stylish dark and light UI themes included.
+- [#0019] Screen sharing now works smoothly in group calls.
 
 ### Tip
 - [#0005] Share only a single window for better privacy.
