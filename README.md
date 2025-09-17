@@ -81,4 +81,7 @@ npm run dev
 
 ### Status
 - [#0015] Error handling improved on both frontend & backend.
+
+### Status
+- [#0018] Error handling improved on both frontend & backend.
 <!-- AUTO-UPDATED:END -->
