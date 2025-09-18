@@ -86,4 +86,7 @@ npm run dev
 
 ### Status
 - [#0018] Error handling improved on both frontend & backend.
+
+### Status
+- [#0021] Average call setup time < 500ms in last tests.
 <!-- AUTO-UPDATED:END -->
