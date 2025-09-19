@@ -72,6 +72,7 @@ npm run dev
 - [#0014] Use Chrome for the best WebRTC stability.
 - [#0017] Update dependencies regularly for smoother builds.
 - [#0020] Use headphones to avoid audio echo during calls.
+- [#0023] Update dependencies regularly for smoother builds.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
