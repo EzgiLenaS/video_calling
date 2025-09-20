@@ -81,4 +81,7 @@ npm run dev
 - [#0015] Error handling improved on both frontend & backend.
 - [#0018] Error handling improved on both frontend & backend.
 - [#0021] Average call setup time < 500ms in last tests.
+
+### Status
+- [#0024] Message delivery success rate > 99%.
 <!-- AUTO-UPDATED:END -->
