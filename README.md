@@ -76,19 +76,9 @@ npm run dev
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
-
-### Status
 - [#0009] TURN servers active for strict NAT environments.
-
-### Status
 - [#0012] TURN servers active for strict NAT environments.
-
-### Status
 - [#0015] Error handling improved on both frontend & backend.
-
-### Status
 - [#0018] Error handling improved on both frontend & backend.
-
-### Status
 - [#0021] Average call setup time < 500ms in last tests.
 <!-- AUTO-UPDATED:END -->
