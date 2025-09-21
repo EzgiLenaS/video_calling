@@ -64,6 +64,7 @@ npm run dev
 - [#0016] Stylish dark and light UI themes included.
 - [#0019] Screen sharing now works smoothly in group calls.
 - [#0022] Stylish dark and light UI themes included.
+- [#0025] Stylish dark and light UI themes included.
 
 ### Tip
 - [#0005] Share only a single window for better privacy.
