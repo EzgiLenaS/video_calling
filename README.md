@@ -74,6 +74,7 @@ npm run dev
 - [#0017] Update dependencies regularly for smoother builds.
 - [#0020] Use headphones to avoid audio echo during calls.
 - [#0023] Update dependencies regularly for smoother builds.
+- [#0026] Update dependencies regularly for smoother builds.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
