@@ -86,4 +86,7 @@ npm run dev
 
 ### Status
 - [#0024] Message delivery success rate > 99%.
+
+### Status
+- [#0027] Message delivery success rate > 99%.
 <!-- AUTO-UPDATED:END -->
