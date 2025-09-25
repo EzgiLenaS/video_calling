@@ -80,6 +80,7 @@ npm run dev
 - [#0026] Update dependencies regularly for smoother builds.
 - [#0029] Share only a single window for better privacy.
 - [#0032] Use Chrome for the best WebRTC stability.
+- [#0035] Share only a single window for better privacy.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
