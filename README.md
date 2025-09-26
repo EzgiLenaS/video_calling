@@ -68,6 +68,7 @@ npm run dev
 - [#0028] Recording option saves sessions for later playback.
 - [#0031] Secure login with JWT-based authentication.
 - [#0034] Real-time reactions make chats more interactive.
+- [#0037] Stylish dark and light UI themes included.
 
 ### Tip
 - [#0005] Share only a single window for better privacy.
