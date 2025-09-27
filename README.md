@@ -82,6 +82,7 @@ npm run dev
 - [#0029] Share only a single window for better privacy.
 - [#0032] Use Chrome for the best WebRTC stability.
 - [#0035] Share only a single window for better privacy.
+- [#0038] Use headphones to avoid audio echo during calls.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
