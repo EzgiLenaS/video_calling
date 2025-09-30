@@ -57,7 +57,6 @@ npm run dev
 ---
 
 ### Feature
-- [#0007] Secure login with JWT-based authentication.
 - [#0010] Stylish dark and light UI themes included.
 - [#0013] Recording option saves sessions for later playback.
 - [#0016] Stylish dark and light UI themes included.
@@ -69,6 +68,7 @@ npm run dev
 - [#0034] Real-time reactions make chats more interactive.
 - [#0037] Stylish dark and light UI themes included.
 - [#0040] Recording option saves sessions for later playback.
+- [#0043] Recording option saves sessions for later playback.
 
 ### Tip
 - [#0008] Share only a single window for better privacy.
