@@ -57,7 +57,6 @@ npm run dev
 ---
 
 ### Feature
-- [#0013] Recording option saves sessions for later playback.
 - [#0016] Stylish dark and light UI themes included.
 - [#0019] Screen sharing now works smoothly in group calls.
 - [#0022] Stylish dark and light UI themes included.
@@ -69,6 +68,7 @@ npm run dev
 - [#0040] Recording option saves sessions for later playback.
 - [#0043] Recording option saves sessions for later playback.
 - [#0046] Stylish dark and light UI themes included.
+- [#0049] Real-time reactions make chats more interactive.
 
 ### Tip
 - [#0014] Use Chrome for the best WebRTC stability.
