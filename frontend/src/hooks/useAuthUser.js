@@ -1,5 +1,4 @@
 import { useQuery } from '@tanstack/react-query';
-import React from 'react'
 import { getAuthUser } from '../lib/api.js';
 
 // Axios

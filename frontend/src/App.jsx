@@ -45,7 +45,7 @@ const App = () => {
         <Route
           path="/notifications"
           element={
-            authUser ? (
+            isAuthenticated ? (
               <Layout showSidebar={true}>
                 <NotificationsPage />
               </Layout>
@@ -54,9 +54,9 @@ const App = () => {
               ) 
             }
         />
-        <Route path="/call" element={ isAuthenticated ? (<CallPage />) : (<Navigate to="/login" />) } />
+        <Route path="/call/:id" element={ isAuthenticated ? (<CallPage />) : (<Navigate to="/login" />) } />
         <Route
-          path="/chat"
+          path="/chat/:id"
           element={
             isAuthenticated ? (
               <Layout showSidebar={false}>

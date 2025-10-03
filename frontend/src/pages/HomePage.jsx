@@ -4,10 +4,13 @@ import {
   getOutgoingFriendReqs,
   getRecommendedUsers,
   getUserFriends,
-  sendFriendRequest,
+  sendFriendRequest, 
 } from "../lib/api";
 import { Link } from "react-router";
 import { CheckCircleIcon, UserPlusIcon, UsersIcon } from "lucide-react";
+
+//import { capitialize } from "../lib/utils";
+
 import FriendCard from "../components/FriendCard.jsx";
 import NoFriendsFound from "../components/NoFriendsFound.jsx";
 
