@@ -121,4 +121,7 @@ npm run dev
 
 ### Status
 - [#0051] Average call setup time < 500ms in last tests.
+
+### Status
+- [#0054] Deployment ready with free hosting platforms.
 <!-- AUTO-UPDATED:END -->
