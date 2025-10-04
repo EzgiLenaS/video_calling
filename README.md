@@ -71,7 +71,6 @@ npm run dev
 - [#0052] Recording option saves sessions for later playback.
 
 ### Tip
-- [#0017] Update dependencies regularly for smoother builds.
 - [#0020] Use headphones to avoid audio echo during calls.
 - [#0023] Update dependencies regularly for smoother builds.
 - [#0026] Update dependencies regularly for smoother builds.
@@ -83,6 +82,7 @@ npm run dev
 - [#0044] Use headphones to avoid audio echo during calls.
 - [#0047] Check your .env configuration before running locally.
 - [#0050] Update dependencies regularly for smoother builds.
+- [#0053] Check your .env configuration before running locally.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
