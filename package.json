@@ -1,0 +1,13 @@
+{
+  "name": "video_calling",
+  "version": "1.0.0",
+  "description": "This project is a **real-time video calling and messaging application** where users can:  \r - Start 1-on-1 or group video calls  \r - Share their screen during calls  \r - Record sessions  \r - Send messages with typing indicators & reactions  \r - Add friends and start private conversations  \r - Enjoy a unique and modern UI",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

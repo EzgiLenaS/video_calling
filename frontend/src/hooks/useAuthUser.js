@@ -12,7 +12,7 @@ const useAuthUser = () => {
 
   // Question mark is just in case data is equal to undefined
   // todo: userWhichUsedInAppAndAuthRoute data?.userdaki user bu olabilir
-  return { isLoading: authUser.isLoading, authUser: authUser.data?.user };
+  return { isLoading: authUser.isLoading, authUser: authUser.data?.userWhichUsedInAppAndAuthRoute };
 }
 
 export default useAuthUser
