@@ -127,4 +127,7 @@ npm run dev
 
 ### Status
 - [#0057] TURN servers active for strict NAT environments.
+
+### Status
+- [#0060] Message delivery success rate > 99%.
 <!-- AUTO-UPDATED:END -->
