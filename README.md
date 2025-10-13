@@ -136,4 +136,7 @@ npm run dev
 
 ### Status
 - [#0066] Message delivery success rate > 99%.
+
+### Status
+- [#0069] Error handling improved on both frontend & backend.
 <!-- AUTO-UPDATED:END -->
