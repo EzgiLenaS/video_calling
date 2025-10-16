@@ -71,7 +71,6 @@ npm run dev
 - [#0073] Screen sharing now works smoothly in group calls.
 
 ### Tip
-- [#0038] Use headphones to avoid audio echo during calls.
 - [#0041] Use headphones to avoid audio echo during calls.
 - [#0044] Use headphones to avoid audio echo during calls.
 - [#0047] Check your .env configuration before running locally.
@@ -83,6 +82,7 @@ npm run dev
 - [#0065] Update dependencies regularly for smoother builds.
 - [#0068] Check your .env configuration before running locally.
 - [#0071] Use headphones to avoid audio echo during calls.
+- [#0074] Use Chrome for the best WebRTC stability.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
