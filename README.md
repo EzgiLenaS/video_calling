@@ -71,7 +71,6 @@ npm run dev
 - [#0079] Recording option saves sessions for later playback.
 
 ### Tip
-- [#0044] Use headphones to avoid audio echo during calls.
 - [#0047] Check your .env configuration before running locally.
 - [#0050] Update dependencies regularly for smoother builds.
 - [#0053] Check your .env configuration before running locally.
@@ -83,6 +82,7 @@ npm run dev
 - [#0071] Use headphones to avoid audio echo during calls.
 - [#0074] Use Chrome for the best WebRTC stability.
 - [#0077] Check your .env configuration before running locally.
+- [#0080] Update dependencies regularly for smoother builds.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
