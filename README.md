@@ -148,4 +148,7 @@ npm run dev
 
 ### Status
 - [#0078] Deployment ready with free hosting platforms.
+
+### Status
+- [#0081] Message delivery success rate > 99%.
 <!-- AUTO-UPDATED:END -->
