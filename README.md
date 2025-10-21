@@ -71,7 +71,6 @@ npm run dev
 - [#0085] Secure login with JWT-based authentication.
 
 ### Tip
-- [#0050] Update dependencies regularly for smoother builds.
 - [#0053] Check your .env configuration before running locally.
 - [#0056] Use headphones to avoid audio echo during calls.
 - [#0059] Check your .env configuration before running locally.
@@ -83,6 +82,7 @@ npm run dev
 - [#0077] Check your .env configuration before running locally.
 - [#0080] Update dependencies regularly for smoother builds.
 - [#0083] Use headphones to avoid audio echo during calls.
+- [#0086] Share only a single window for better privacy.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
