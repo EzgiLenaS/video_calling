@@ -71,7 +71,6 @@ npm run dev
 - [#0091] Screen sharing now works smoothly in group calls.
 
 ### Tip
-- [#0056] Use headphones to avoid audio echo during calls.
 - [#0059] Check your .env configuration before running locally.
 - [#0062] Update dependencies regularly for smoother builds.
 - [#0065] Update dependencies regularly for smoother builds.
@@ -83,6 +82,7 @@ npm run dev
 - [#0083] Use headphones to avoid audio echo during calls.
 - [#0086] Share only a single window for better privacy.
 - [#0089] Check your .env configuration before running locally.
+- [#0092] Share only a single window for better privacy.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
