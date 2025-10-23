@@ -57,7 +57,6 @@ npm run dev
 ---
 
 ### Feature
-- [#0055] Secure login with JWT-based authentication.
 - [#0058] Secure login with JWT-based authentication.
 - [#0061] Recording option saves sessions for later playback.
 - [#0064] Screen sharing now works smoothly in group calls.
@@ -69,6 +68,7 @@ npm run dev
 - [#0082] Stylish dark and light UI themes included.
 - [#0085] Secure login with JWT-based authentication.
 - [#0088] Recording option saves sessions for later playback.
+- [#0091] Screen sharing now works smoothly in group calls.
 
 ### Tip
 - [#0056] Use headphones to avoid audio echo during calls.
