@@ -160,4 +160,7 @@ npm run dev
 
 ### Status
 - [#0090] Average call setup time < 500ms in last tests.
+
+### Status
+- [#0093] Average call setup time < 500ms in last tests.
 <!-- AUTO-UPDATED:END -->
