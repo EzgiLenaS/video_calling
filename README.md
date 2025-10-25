@@ -57,7 +57,6 @@ npm run dev
 ---
 
 ### Feature
-- [#0061] Recording option saves sessions for later playback.
 - [#0064] Screen sharing now works smoothly in group calls.
 - [#0067] Screen sharing now works smoothly in group calls.
 - [#0070] Secure login with JWT-based authentication.
@@ -69,6 +68,7 @@ npm run dev
 - [#0088] Recording option saves sessions for later playback.
 - [#0091] Screen sharing now works smoothly in group calls.
 - [#0094] Screen sharing now works smoothly in group calls.
+- [#0097] Secure login with JWT-based authentication.
 
 ### Tip
 - [#0062] Update dependencies regularly for smoother builds.
