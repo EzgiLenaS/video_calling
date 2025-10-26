@@ -166,4 +166,7 @@ npm run dev
 
 ### Status
 - [#0096] Deployment ready with free hosting platforms.
+
+### Status
+- [#0099] TURN servers active for strict NAT environments.
 <!-- AUTO-UPDATED:END -->
