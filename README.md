@@ -169,4 +169,7 @@ npm run dev
 
 ### Status
 - [#0099] TURN servers active for strict NAT environments.
+
+### Status
+- [#0102] Error handling improved on both frontend & backend.
 <!-- AUTO-UPDATED:END -->
