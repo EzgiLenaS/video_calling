@@ -57,7 +57,6 @@ npm run dev
 ---
 
 ### Feature
-- [#0067] Screen sharing now works smoothly in group calls.
 - [#0070] Secure login with JWT-based authentication.
 - [#0073] Screen sharing now works smoothly in group calls.
 - [#0076] Stylish dark and light UI themes included.
@@ -69,6 +68,7 @@ npm run dev
 - [#0094] Screen sharing now works smoothly in group calls.
 - [#0097] Secure login with JWT-based authentication.
 - [#0100] Real-time reactions make chats more interactive.
+- [#0103] Real-time reactions make chats more interactive.
 
 ### Tip
 - [#0068] Check your .env configuration before running locally.
