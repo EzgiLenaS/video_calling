@@ -71,7 +71,6 @@ npm run dev
 - [#0103] Real-time reactions make chats more interactive.
 
 ### Tip
-- [#0068] Check your .env configuration before running locally.
 - [#0071] Use headphones to avoid audio echo during calls.
 - [#0074] Use Chrome for the best WebRTC stability.
 - [#0077] Check your .env configuration before running locally.
@@ -83,6 +82,7 @@ npm run dev
 - [#0095] Check your .env configuration before running locally.
 - [#0098] Update dependencies regularly for smoother builds.
 - [#0101] Use headphones to avoid audio echo during calls.
+- [#0104] Use Chrome for the best WebRTC stability.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
