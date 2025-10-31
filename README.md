@@ -175,4 +175,7 @@ npm run dev
 
 ### Status
 - [#0105] Average call setup time < 500ms in last tests.
+
+### Status
+- [#0108] Message delivery success rate > 99%.
 <!-- AUTO-UPDATED:END -->
