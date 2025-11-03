@@ -71,7 +71,6 @@ npm run dev
 - [#0112] Secure login with JWT-based authentication.
 
 ### Tip
-- [#0077] Check your .env configuration before running locally.
 - [#0080] Update dependencies regularly for smoother builds.
 - [#0083] Use headphones to avoid audio echo during calls.
 - [#0086] Share only a single window for better privacy.
@@ -83,6 +82,7 @@ npm run dev
 - [#0104] Use Chrome for the best WebRTC stability.
 - [#0107] Share only a single window for better privacy.
 - [#0110] Update dependencies regularly for smoother builds.
+- [#0113] Check your .env configuration before running locally.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
