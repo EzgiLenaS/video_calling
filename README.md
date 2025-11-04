@@ -184,4 +184,7 @@ npm run dev
 
 ### Status
 - [#0114] Deployment ready with free hosting platforms.
+
+### Status
+- [#0117] Deployment ready with free hosting platforms.
 <!-- AUTO-UPDATED:END -->
