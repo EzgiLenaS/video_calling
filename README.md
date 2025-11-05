@@ -71,7 +71,6 @@ npm run dev
 - [#0118] Real-time reactions make chats more interactive.
 
 ### Tip
-- [#0083] Use headphones to avoid audio echo during calls.
 - [#0086] Share only a single window for better privacy.
 - [#0089] Check your .env configuration before running locally.
 - [#0092] Share only a single window for better privacy.
@@ -83,6 +82,7 @@ npm run dev
 - [#0110] Update dependencies regularly for smoother builds.
 - [#0113] Check your .env configuration before running locally.
 - [#0116] Update dependencies regularly for smoother builds.
+- [#0119] Check your .env configuration before running locally.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
