@@ -190,4 +190,7 @@ npm run dev
 
 ### Status
 - [#0120] Error handling improved on both frontend & backend.
+
+### Status
+- [#0123] Deployment ready with free hosting platforms.
 <!-- AUTO-UPDATED:END -->
