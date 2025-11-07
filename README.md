@@ -71,7 +71,6 @@ npm run dev
 - [#0121] Recording option saves sessions for later playback.
 
 ### Tip
-- [#0086] Share only a single window for better privacy.
 - [#0089] Check your .env configuration before running locally.
 - [#0092] Share only a single window for better privacy.
 - [#0095] Check your .env configuration before running locally.
@@ -83,6 +82,7 @@ npm run dev
 - [#0113] Check your .env configuration before running locally.
 - [#0116] Update dependencies regularly for smoother builds.
 - [#0119] Check your .env configuration before running locally.
+- [#0122] Use headphones to avoid audio echo during calls.
 
 ### Status
 - [#0006] Average call setup time < 500ms in last tests.
