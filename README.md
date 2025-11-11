@@ -122,7 +122,5 @@ npm run dev
 - [#0108] Message delivery success rate > 99%.
 - [#0111] Average call setup time < 500ms in last tests.
 - [#0114] Deployment ready with free hosting platforms.
-- [#0117] Deployment ready with free hosting platforms.
 - [#0120] Error handling improved on both frontend & backend.
-- [#0123] Deployment ready with free hosting platforms.
 <!-- AUTO-UPDATED:END -->
