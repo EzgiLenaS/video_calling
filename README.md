@@ -68,7 +68,6 @@ npm run dev
 - [#0124] Screen sharing now works smoothly in group calls.
 
 ### Tip
-- [#0092] Share only a single window for better privacy.
 - [#0095] Check your .env configuration before running locally.
 - [#0098] Update dependencies regularly for smoother builds.
 - [#0101] Use headphones to avoid audio echo during calls.
