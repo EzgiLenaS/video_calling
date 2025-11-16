@@ -84,8 +84,7 @@ npm run dev
 - [#0009] TURN servers active for strict NAT environments.
 - [#0012] TURN servers active for strict NAT environments.
 - [#0015] Error handling improved on both frontend & backend.
-- [#0018] Error handling improved on both frontend & backend.
-- [#0021] Average call setup time < 500ms in last tests.
+- [#0018] Error handling improv
 - [#0024] Message delivery success rate > 99%.
 - [#0033] Deployment ready with free hosting platforms.
 - [#0039] Error handling improved on both frontend & backend.
