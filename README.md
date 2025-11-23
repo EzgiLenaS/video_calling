@@ -105,8 +105,8 @@ npm run dev
 - [#0090] Average call setup time < 500ms in last tests.
 - [#0093] Average call setup time < 500ms in last tests.
 - [#0096] Deployment ready with free hosting platforms.
-- [#0099] TURN servers active for strict NAT environments.
-- [#0105] Average call setup time < 500ms in last tests.
-- [#0108] Message delivery success rate > 99%.
-- [#0120] Error handling improved on both frontend & backend.
+- TURN servers active for strict NAT environments.
+- Average call setup time < 500ms in last tests.
+- Message delivery success rate > 99%.
+- Error handling improved on both frontend & backend.
 <!-- AUTO-UPDATED:END -->
