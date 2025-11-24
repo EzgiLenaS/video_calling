@@ -100,9 +100,8 @@ npm run dev
 - [#0075] Average call setup time < 500ms in last tests.
 - [#0078] Deployment ready with free hosting platforms.
 - [#0081] Message delivery success rate > 99%.
-- [#0084] Deployment ready with free hosting platforms.
-- [#0087] TURN servers active for strict NAT environments.
-- Average call setup time < 500ms in last tests.
+- Deployment ready with free hosting platforms.
+- TURN servers active for strict NAT environments.
 - Average call setup time < 500ms in last tests.
 - [Deployment ready with free hosting platforms.
 - TURN servers active for strict NAT environments.
