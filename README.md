@@ -57,8 +57,8 @@ npm run dev
 ---
 
 ### Feature
-- [#0091] Screen sharing now works smoothly in group calls.
-- [#0097] Secure login with JWT-based authentication.
+- Screen sharing now works smoothly in group calls.
+- Secure login with JWT-based authentication.
 - [#0103] Real-time reactions make chats more interactive.
 - [#0106] Recording option saves sessions for later playback.
 - [#0109] Screen sharing now works smoothly in group calls.
