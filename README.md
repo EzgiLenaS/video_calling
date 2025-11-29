@@ -61,10 +61,7 @@ npm run dev
 - Secure login with JWT-based authentication.
 - Real-time reactions make chats more interactive.
 - Recording option saves sessions for later playback.
-- Secure login with JWT-based authentication.
-- [#0115] Stylish dark and light UI themes included.
-- [#0121] Recording option saves sessions for later playback.
-- [#0124] Screen sharing now works smoothly in group calls.
+- Stylish dark and light UI themes included.
 
 ### Tip
 - [#0095] Check your .env configuration before running locally.
