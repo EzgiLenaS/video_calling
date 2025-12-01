@@ -64,8 +64,8 @@ npm run dev
 - Stylish dark and light UI themes included.
 
 ### Tip
-- [#0095] Check your .env configuration before running locally.
-- [#0098] Update dependencies regularly for smoother builds.
+- Check your .env configuration before running locally.
+- Update dependencies regularly for smoother builds.
 - [#0101] Use headphones to avoid audio echo during calls.
 - [#0104] Use Chrome for the best WebRTC stability.
 - [#0107] Share only a single window for better privacy.
