@@ -69,8 +69,6 @@ npm run dev
 - [#0101] Use headphones to avoid audio echo during calls.
 - [#0104] Use Chrome for the best WebRTC stability.
 - [#0107] Share only a single window for better privacy.
-- [#0110] Update dependencies regularly for smoother builds.
-- [#0113] Check your .env configuration before running locally.
 - [#0116] Update dependencies regularly for smoother builds.
 - [#0122] Use headphones to avoid audio echo during calls.
 - [#0125] Share only a single window for better privacy.
