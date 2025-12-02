@@ -68,8 +68,7 @@ npm run dev
 - Update dependencies regularly for smoother builds.
 - Use headphones to avoid audio echo during calls.
 - Use Chrome for the best WebRTC stability.
-- [#0107] Share only a single window for better privacy.
-- [#0116] Update dependencies regularly for smoother builds.
+- Share only a single window for better privacy.
 - [#0122] Use headphones to avoid audio echo during calls.
 - [#0125] Share only a single window for better privacy.
 
