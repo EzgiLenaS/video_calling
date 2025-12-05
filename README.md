@@ -73,8 +73,8 @@ npm run dev
 - [#0125] Share only a single window for better privacy.
 
 ### Status
-- [#0006] Average call setup time < 500ms in last tests.
-- [#0009] TURN servers active for strict NAT environments.
+- Average call setup time < 500ms in last tests.
+- TURN servers active for strict NAT environments.
 - [#0015] Error handling improved on both frontend & backend.
 - [#0024] Message delivery success rate > 99%.
 - [#0033] Deployment ready with free hosting platforms.
