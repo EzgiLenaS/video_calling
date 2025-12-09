@@ -69,7 +69,6 @@ npm run dev
 - Use headphones to avoid audio echo during calls.
 - Use Chrome for the best WebRTC stability.
 - Share only a single window for better privacy.
-- [#0122] Use headphones to avoid audio echo during calls.
 - [#0125] Share only a single window for better privacy.
 
 ### Status
