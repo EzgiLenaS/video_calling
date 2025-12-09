@@ -75,7 +75,7 @@ npm run dev
 ### Status
 - Average call setup time < 500ms in last tests.
 - TURN servers active for strict NAT environments.
-- [#0015] Error handling improved on both frontend & backend.
+- Error handling improved on both frontend & backend.
 - [#0024] Message delivery success rate > 99%.
 - [#0033] Deployment ready with free hosting platforms.
 - [#0039] Error handling improved on both frontend & backend.
