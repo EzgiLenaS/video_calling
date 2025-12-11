@@ -81,9 +81,6 @@ npm run dev
 - [#0042] TURN servers active for strict NAT environments.
 - Deployment ready with free hosting platforms.
 - [#0057] TURN servers active for strict NAT environments.
-- [#0060] Message delivery success rate > 99%.
-- [#0063] Average call setup time < 500ms in last tests.
-- [#0066] Message delivery success rate > 99%.
 - [#0069] Error handling improved on both frontend & backend.
 - Deployment ready with free hosting platforms.
 - TURN servers active for strict NAT environments.
