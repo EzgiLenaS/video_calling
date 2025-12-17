@@ -75,7 +75,7 @@ npm run dev
 - TURN servers active for strict NAT environments.
 - Error handling improved on both frontend & backend.
 - Message delivery success rate > 99%.
-- [#0033] Deployment ready with free hosting platforms.
+- Deployment ready with free hosting platforms.
 - [#0039] Error handling improved on both frontend & backend.
 - [#0069] Error handling improved on both frontend & backend.
 - Deployment ready with free hosting platforms.
