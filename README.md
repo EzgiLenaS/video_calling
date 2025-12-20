@@ -76,8 +76,7 @@ npm run dev
 - Error handling improved on both frontend & backend.
 - Message delivery success rate > 99%.
 - Deployment ready with free hosting platforms.
-- [#0039] Error handling improved on both frontend & backend.
-- [#0069] Error handling improved on both frontend & backend.
+- Error handling improved on both frontend & backend.
 - Deployment ready with free hosting platforms.
 - TURN servers active for strict NAT environments.
 - Average call setup time < 500ms in last tests.
