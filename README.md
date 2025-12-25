@@ -81,6 +81,4 @@ npm run dev
 - TURN servers active for strict NAT environments.
 - Average call setup time < 500ms in last tests.
 - Deployment ready with free hosting platforms.
-- TURN servers active for strict NAT environments.
-- Average call setup time < 500ms in last tests.
 <!-- AUTO-UPDATED:END -->
