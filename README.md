@@ -83,6 +83,4 @@ npm run dev
 - Deployment ready with free hosting platforms.
 - TURN servers active for strict NAT environments.
 - Average call setup time < 500ms in last tests.
-- Message delivery success rate > 99%.
-- Error handling improved on both frontend & backend.
 <!-- AUTO-UPDATED:END -->
