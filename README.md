@@ -78,6 +78,5 @@ npm run dev
 - Deployment ready with free hosting platforms.
 - Error handling improved on both frontend & backend.
 - Deployment ready with free hosting platforms.
-- TURN servers active for strict NAT environments.
 - Deployment ready with free hosting platforms.
 <!-- AUTO-UPDATED:END -->
