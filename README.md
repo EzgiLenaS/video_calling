@@ -76,6 +76,5 @@ npm run dev
 - Error handling improved on both frontend & backend.
 - Message delivery success rate > 99%.
 - Deployment ready with free hosting platforms.
-- Error handling improved on both frontend & backend.
 - Deployment ready with free hosting platforms.
 <!-- AUTO-UPDATED:END -->
