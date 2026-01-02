@@ -67,6 +67,4 @@ npm run dev
 - Check your .env configuration before running locally.
 - Update dependencies regularly for smoother builds.
 - Use headphones to avoid audio echo during calls.
-- Use Chrome for the best WebRTC stability.
-- Share only a single window for better privacy.
 <!-- AUTO-UPDATED:END -->
