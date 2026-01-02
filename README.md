@@ -66,5 +66,4 @@ npm run dev
 ### Tip
 - Check your .env configuration before running locally.
 - Update dependencies regularly for smoother builds.
-- Use headphones to avoid audio echo during calls.
 <!-- AUTO-UPDATED:END -->
