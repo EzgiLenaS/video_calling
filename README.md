@@ -62,7 +62,4 @@ npm run dev
 - Real-time reactions make chats more interactive.
 - Recording option saves sessions for later playback.
 - Stylish dark and light UI themes included.
-
-### Tip
-- Check your .env configuration before running locally.
 <!-- AUTO-UPDATED:END -->
