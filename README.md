@@ -65,5 +65,4 @@ npm run dev
 
 ### Tip
 - Check your .env configuration before running locally.
-- Update dependencies regularly for smoother builds
 <!-- AUTO-UPDATED:END -->
