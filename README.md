@@ -58,5 +58,4 @@ npm run dev
 
 ### Feature
 - Screen sharing now works smoothly in group calls.
-- Secure login with JWT-based authentication.
 <!-- AUTO-UPDATED:END -->
