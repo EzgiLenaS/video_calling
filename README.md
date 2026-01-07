@@ -57,5 +57,4 @@ npm run dev
 ---
 
 ### Feature
-- Screen sharing now works smoothly in group calls.
 <!-- AUTO-UPDATED:END -->
