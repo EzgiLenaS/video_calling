@@ -54,7 +54,4 @@ npm install
 npm run dev
 ```
 <!-- AUTO-UPDATED:START -->
----
-
-### Feature
 <!-- AUTO-UPDATED:END -->
